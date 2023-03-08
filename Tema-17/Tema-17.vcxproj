@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="Tema-17.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="functii.h" />
+    <ClInclude Include="solutii.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="numere.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
